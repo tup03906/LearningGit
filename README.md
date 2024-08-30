@@ -1,3 +1,3 @@
 # LearningGit
 
-Edit 1
+This is an edit
